@@ -1,0 +1,98 @@
+.main {
+    height: 50px;
+    width: 500px;
+    background: midnightblue;
+    display: flex;
+
+}
+.main2 {
+    height:50px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+
+}
+.main2-1 {
+    height:50px;
+    width: 250px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end}
+
+.line {
+    height: 5px;
+    width: 50px;
+    position: relative;
+    margin-right: 30px;
+    bottom: 10px;
+
+}
+.mini {
+    height: 30px;
+    width: 75px;
+    position: absolute;
+    left: 50px;
+}
+.zero {height: 30px;
+       width: 500px;}
+
+.bgs {background: silver;}
+
+.h70 {height: 70px;
+    position: relative;
+    margin-right: 30px;
+}
+.h50 {height: 50px;
+      width: 50px;
+}
+
+.w70 {width: 70px;}
+
+.tri {height: 100px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;}
+.red {
+    border-bottom: 3px solid #ee698b;
+}
+.tri2 {height: 70px;
+       width: 500px;
+       display: flex;
+       align-items: center;
+       }
+
+.br {border-radius: 7%;}
+.brc {border-radius: 50%;
+      position: relative;
+      margin-left: 50px}
+
+.bkg {background: palevioletred;}
+.w150 {width: 150px}
+
+.h70-2 {height: 80px;
+        width: 100px;
+
+         }
+.qvad {display: flex;
+       justify-content: space-around;
+      }
+.mini2 {height: 30px;
+    width: 30px;
+    position: relative;
+    left: 40px;
+    margin-left: 5px;
+}
+.main2-2 {
+    height:50px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center}
+
+.line2 {
+    height: 5px;
+    width: 20px;
+    position: relative;
+    margin-left: 10px}
+
